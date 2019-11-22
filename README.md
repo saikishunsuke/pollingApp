@@ -6,3 +6,9 @@
 
 ## What
 App for polling without any paper.
+
+## How to use
+- `$ npm install`
+- `$ npm run ganache`
+- open new terminal window
+- `$ npm run migrate:ganache`
